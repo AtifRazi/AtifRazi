@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AtifRazi
-- 👀 I’m interested in programming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 AtifRazi/AtifRazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
